@@ -1,0 +1,48 @@
+package RCOS;
+
+import java.util.HashMap;
+import java.util.ArrayList;
+import org.json.JSONObject;
+import org.json.JSONArray;
+
+
+public class RCOS {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+
+
+JSONObject obj = new JSONObject("C:\\Users\\romans2\\Downloads\\RoomScheduler-master.zip\\RoomScheduler-master\\data\\class_times\\sections.json");
+
+HashMap<String, ArrayList<Time>> myMap = new HashMap<String, ArrayList<Time>>();
+JSONArray array = obj.getJSONArray("result");
+for (int i = 0; i < array.length(); i++){
+	JSONArray section_times = obj.getJSONArray("section_times");
+	//String location = obj.getJSONArray("location");
+	if (section_times.getString(3).length() > 0){
+		if (myMap.containsKey(section_times.getString(3))) {
+		 	JSONArray days = obj.getJSONArray("days_of_the_week");
+		 	for (int j = 0; j < days.length(); j++){
+		 		Time temp_time = new Time();
+		 		temp_time.day = days.getString(j);
+				temp_time.start = section_times.getString(0);
+				temp_time.end = section_times.getString(2);
+		 		(myMap.get(section_times.getString(3))).add(temp_time);
+		 	}
+		}
+		else {
+			myMap.put(section_times.getString(3), null );
+			JSONArray days = obj.getJSONArray("days_of_the_week");
+			for (int j = 0; j < days.length(); j++){
+		 		Time temp_time = new Time();
+		 		temp_time.day = days.getString(j);
+				temp_time.start = section_times.getString(0);
+				temp_time.end = section_times.getString(2);
+				myMap.get(section_times.getString(3)).add(temp_time);
+			}
+		}
+	}
+}
+	}
+
+}
