@@ -45,8 +45,8 @@ app.get('/:room', function(req, res, next) {
   {
     console.log('nah this is')
   }
-  console.log('is this recorded' + req.bcode + " " + req.bnum)
+  console.log('is this recorded ' + req.bcode + " " + req.bnum)
   
 })
 
-app.listen(5000)
+app.listen(2340)

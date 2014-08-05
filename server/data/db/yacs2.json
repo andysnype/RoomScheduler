@@ -1,0 +1,2893 @@
+
+{
+    "SAGE 2707": [
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Esrock"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Esrock"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "20:00:00",
+            "time_end": "20:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Haskins"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Breyman"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Breyman"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Oksiuta"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Chi"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Chi"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Caporael"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Farina"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Farina"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "14:50:00",
+            "professor": "Barthel"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Breyman"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Breyman"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Howard"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Howard"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Haskins"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Haskins"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Holmes"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Holmes"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Helfrich"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Helfrich"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Helfrich"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Helfrich"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Oksiuta"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kinchy"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kinchy"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Fortun"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Fortun"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "16:00:00",
+            "time_end": "18:50:00",
+            "professor": "Podowski"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Kotha"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Winner"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Winner"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "12:50:00",
+            "professor": "Yener"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:20:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:20:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "12:50:00",
+            "professor": "Yener"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "16:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Fortun"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Fortun"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Isaacson"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Isaacson"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "13:00:00",
+            "time_end": "15:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Perry"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Perry"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jiao"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jiao"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Farina"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Farina"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Haskins"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Haskins"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Seelow"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Oksiuta"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "12:50:00",
+            "professor": "Yener"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Krueger"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Krueger"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:20:00",
+            "professor": "Van Heuvel"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:20:00",
+            "professor": "Van Heuvel"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "12:50:00",
+            "professor": "Yener"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Winner"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "14:50:00",
+            "professor": "Hurst"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "18:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "18:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fisk"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Hahn"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Hahn"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhou"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhou"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Woodhouse"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Perry"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Perry"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Campbell"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Campbell"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gordon"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gordon"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Costelloe-"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Costelloe-"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Costelloe-"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Costelloe-"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Dentz"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "16:00:00",
+            "time_end": "18:50:00",
+            "professor": "Pierce"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Oksiuta"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "16:00:00",
+            "time_end": "18:50:00",
+            "professor": "Pierce"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gutberlet"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gutberlet"
+        }
+    ],
+    "LALLY 104": [
+        {
+            "day": "Tuesday",
+            "time_begin": "08:00:00",
+            "time_end": "08:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "08:00:00",
+            "time_end": "08:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Walczyk"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Walczyk"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "O'Rourke"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "O'Rourke"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:30:00",
+            "professor": "Durgee"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:30:00",
+            "professor": "Durgee"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:20:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:20:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Chan"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Chan"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Sturman"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Sturman"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhao"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhao"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "08:00:00",
+            "time_end": "08:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Tacy/Bryk"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Tacy/Bryk"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "10:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "11:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Walczyk"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Walczyk"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhao"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Zhao"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:30:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:30:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:30:00",
+            "professor": "Chan"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:30:00",
+            "professor": "Chan"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Sturman/Kuchera"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Sturman/Kuchera"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "14:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Szymanski"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Szymanski"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Shephard"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Shephard"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Lesher"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Lesher"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Symans"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Symans"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Shephard"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Shephard"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "15:00:00",
+            "time_end": "16:20:00",
+            "professor": "Kiehl"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Ryan"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Ryan"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Kotfila"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Piper"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Gilbert"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Gilbert"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:30:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:30:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Embrechts"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Szymanski"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Szymanski"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Lesher"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Lesher"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Symans"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Symans"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Ryan"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:20:00",
+            "professor": "Ryan"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Plotka"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Plotka"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Plotka"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Plotka"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:30:00",
+            "time_end": "13:50:00",
+            "professor": "Wen"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:20:00",
+            "professor": "Cooper"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Grice"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "14:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "14:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Liu"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Liu"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Si"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "09:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Spooner"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Spooner"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Fox"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Todd"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "10:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Staff"
+        }
+    ],
+    "DNASN 130": [
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Winner"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Winner"
+        }
+    ],
+    "CARNEG 205": [
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kovacic"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kovacic"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "15:00:00",
+            "time_end": "18:50:00",
+            "professor": "Cassimatis"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Ryu"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Roytburd"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Roytburd"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "15:00:00",
+            "time_end": "18:50:00",
+            "professor": "Cassimatis"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "15:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Schroeder/Persans"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Schroeder/Persans"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Borca-Tasc"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Borca-Tasc"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Roytburd"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Roytburd"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "17:50:00",
+            "professor": "Cassimatis"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "15:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "14:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "14:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "15:00:00",
+            "time_end": "17:50:00",
+            "professor": "Staff"
+        }
+    ],
+    "WEST 110": [
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "13:50:00",
+            "professor": "Hopson"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "19:50:00",
+            "professor": "Elff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Rolnick"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Leczinsky"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Leczinsky"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Bahn"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "15:50:00",
+            "professor": "Bahn"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Leczinsky"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Leczinsky"
+        }
+    ],
+    "CARNEG 206": [
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "13:50:00",
+            "professor": "Zenzen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Xu"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Hajela/Lister"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Hajela/Lister"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Yang"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Yang"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Borca Tasc"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Borca Tasc"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Noble"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Noble"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Xu"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Yang"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Yang"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Khandekar"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Khandekar"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Herron"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Herron"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Mascarenha"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Swearingen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Swearingen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Swearingen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Swearingen"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Holmes"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "12:00:00",
+            "time_end": "12:50:00",
+            "professor": "McLaughlin/Kessler"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "11:00:00",
+            "time_end": "11:50:00",
+            "professor": "Kiehl/Kessler"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "14:50:00",
+            "professor": "Kiehl/Kessler"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kilduff"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Ji"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Ji"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Zhang"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Zhang"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "17:30:00",
+            "time_end": "18:30:00",
+            "professor": "Giedt"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Burcar"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Burcar"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Woods"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:20:00",
+            "professor": "Woods"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Fajen"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "13:00:00",
+            "time_end": "13:50:00",
+            "professor": "Kempf"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kramer"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Kramer"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Sykes"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gall"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Gall"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "19:50:00",
+            "professor": "Holmes"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Thero"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Thero"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Ji"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Ji"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Walf"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Xia"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Xia"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Xia"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Xia"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Dobry"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Dobry"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Eglash"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Henshaw"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Henshaw"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Henshaw"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Henshaw"
+        }
+    ],
+    "J-ROWL 2W05": [
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Staff"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Staff"
+        }
+    ],
+    "PITTS 5216": [
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jiao"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jiao"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "16:50:00",
+            "professor": "Huang"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "16:50:00",
+            "professor": "Teall"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Kuruzovich"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "14:00:00",
+            "time_end": "16:50:00",
+            "professor": "O'Connor"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Freeman"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Golden"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "McDermott"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Francis"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Kuruzovich"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "14:00:00",
+            "time_end": "16:50:00",
+            "professor": "Kumar/Kuruzovich"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "15:00:00",
+            "time_end": "17:50:00",
+            "professor": "Peters"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "18:30:00",
+            "time_end": "21:20:00",
+            "professor": "Boskin"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "14:00:00",
+            "time_end": "16:50:00",
+            "professor": "Peters/Ravichandr"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jayanthi"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Jayanthi"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Paulson/Samuel"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Paulson/Samuel"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Sanderson"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Francis"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "O'Connor"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "09:00:00",
+            "time_end": "11:50:00",
+            "professor": "Durgee"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Francis"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "18:30:00",
+            "time_end": "21:20:00",
+            "professor": "O'Connor/Murtagh"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Hubbard"
+        },
+        {
+            "day": "Tuesday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Paulson"
+        },
+        {
+            "day": "Friday",
+            "time_begin": "12:00:00",
+            "time_end": "13:50:00",
+            "professor": "Paulson"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Demertzogl"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "16:00:00",
+            "time_end": "17:50:00",
+            "professor": "Demertzogl"
+        },
+        {
+            "day": "Wednesday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Sanderson"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Kamya"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "08:00:00",
+            "time_end": "09:50:00",
+            "professor": "Kamya"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "18:00:00",
+            "time_end": "20:50:00",
+            "professor": "Hubbard"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Paulson"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "10:00:00",
+            "time_end": "11:50:00",
+            "professor": "Paulson"
+        },
+        {
+            "day": "Monday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Demertzogl"
+        },
+        {
+            "day": "Thursday",
+            "time_begin": "14:00:00",
+            "time_end": "15:50:00",
+            "professor": "Demertzogl"
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+
 //This function is the result of using highcharts' API to get a relatively accurate view of Amos Eaton 200 for our testing and debugging purposes.
 
 $(function () {
@@ -8,7 +9,7 @@ $(function () {
 	{
 		"type": "map",
 		"data": [
-			
+
 			{
 				"name": "Amos Eaton 203",
 				"path": "M107,-938,107,-870,165,-869,165,-937z"
