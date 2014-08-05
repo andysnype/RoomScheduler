@@ -18,8 +18,7 @@ app.param('room', function(req, res, next, room) {
   {
     res.send('not proper format: ' + room)
     console.log(room + " received")
-    next()
-    return
+    return next()
   }
  
   b_code = room.substring(0, room.indexOf('-'))
@@ -28,13 +27,13 @@ app.param('room', function(req, res, next, room) {
   if(!b_code || isNaN(num))
   {
     res.send('either b_code or num are invalid. b_code: ' + b_code + ' num: ' + num)
-    next()
-    return
+    return next()
+    
   }
   req.bcode = b_code
   req.rnum = num
   res.send('this is actually received: ' + req.bcode + " " + req.rnum)
-  next()
+  return next()
 })
 
 

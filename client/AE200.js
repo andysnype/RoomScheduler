@@ -7,12 +7,19 @@ $(function () {
     $('#container').highcharts('Map', {
         series: [
 	{
+		"title:" "Amos Eaton 200"
 		"type": "map",
 		"data": [
 
 			{
 				"name": "Amos Eaton 203",
 				"path": "M107,-938,107,-870,165,-869,165,-937z"
+				"click": function() {
+				 var text = '<b>Room name: ' + this.name  + '</b>
+				  if(chart.clickLabel) {
+				    text: text
+				  }
+				}
 			},
 			{
 				"name": "Amos Eaton 203",
